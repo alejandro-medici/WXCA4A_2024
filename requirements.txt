@@ -1,5 +1,5 @@
 ansible
-ansible-lint
+ansible-lint==24.9.2
 ansible-creator
 ansible-navigator
 ansible-content-parser
